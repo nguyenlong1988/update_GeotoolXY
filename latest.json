@@ -1,0 +1,17 @@
+{
+ "app": "GeotoolXY_CapNhatThu",
+ "version": "1.0.1",
+ "ngay": "2026-11-17",
+ "ghi_chu": "Bản thử nghiệm cơ chế cập nhật - không phải bản thật",
+ "patch": {
+  "url": "1.0.1/ban_va_1.0.1.exe",
+  "size": 9862765,
+  "sha256": "d22d1a19f79aaaa022578e0406edb07abb2f4b7ba12375b58ac8d6ad85d30c90",
+  "tu_ban": "1.0.0"
+ },
+ "full": {
+  "url": "1.0.0/day_du_1.0.0.exe",
+  "size": 15122409,
+  "sha256": "ff7834f8a7a001d156bdb7333306df1e2b9ca0b862dfc3d7503bc42b89b88c3b"
+ }
+}
