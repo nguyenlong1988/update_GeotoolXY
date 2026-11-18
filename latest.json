@@ -1,16 +1,24 @@
 {
  "app": "Geotool_XY",
- "version": "1.1.4",
+ "version": "1.1.5",
  "ngay": "2026-11-18",
- "ghi_chu": "Bản 1.1.4: tự động cập nhật (tải nền, nối tiếp khi mất mạng, kiểm chữ ký + SHA-256); lịch sử chuyển đổi ghi phiên bản phần mềm; S-57 gán VALDCO cho đường đẳng sâu (kể cả 0 m); icon trên mọi cửa sổ; hướng dẫn sử dụng mục 13 Cập nhật phần mềm.",
+ "ghi_chu": "Bản 1.1.5: bộ cài cho người dùng (User) nén tối đa, nhỏ hơn khoảng 100 MB, tải cập nhật nhanh hơn.",
+ "patch": {
+  "url": "1.1.5/Geotool_XY_Patch_1.1.5.exe",
+  "size": 26986788,
+  "sha256": "e504f86c4bdf0a82120b238c6600172c7a3740c988c6e4f94623ba1c833855f9",
+  "tu_ban": [
+   "1.1.4"
+  ]
+ },
  "full_user": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.4/Geotool_XY_Installer_User_1.1.4.exe",
-  "size": 434959641,
-  "sha256": "f8dc71dec5853f92e8988d97ab90cd5d571fdb6cb6e9655915eb2f56e46e230e"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.5/Geotool_XY_Installer_User_1.1.5.exe",
+  "size": 322645060,
+  "sha256": "3956fb32a160cc9b44cab08b72f8999d49c6dbfe6ae2321464ffbca7775ce4cc"
  },
  "full_admin": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.4/Geotool_XY_Installer_1.1.4.exe",
-  "size": 322649303,
-  "sha256": "2c6cc4bd09b91a80a5b1dadc73991a099ee1f76a2c7252b8acd47a9469add456"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.5/Geotool_XY_Installer_1.1.5.exe",
+  "size": 322645035,
+  "sha256": "e8c0468306084ef13d7ce07b3259523b643f1db6277a0005d8bd8152572489af"
  }
 }
