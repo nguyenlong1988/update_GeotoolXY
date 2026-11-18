@@ -1,0 +1,16 @@
+{
+ "app": "Geotool_XY",
+ "version": "1.1.4",
+ "ngay": "2026-11-18",
+ "ghi_chu": "Bản 1.1.4: tự động cập nhật (tải nền, nối tiếp khi mất mạng, kiểm chữ ký + SHA-256); lịch sử chuyển đổi ghi phiên bản phần mềm; S-57 gán VALDCO cho đường đẳng sâu (kể cả 0 m); icon trên mọi cửa sổ; hướng dẫn sử dụng mục 13 Cập nhật phần mềm.",
+ "full_user": {
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.4/Geotool_XY_Installer_User_1.1.4.exe",
+  "size": 434959641,
+  "sha256": "f8dc71dec5853f92e8988d97ab90cd5d571fdb6cb6e9655915eb2f56e46e230e"
+ },
+ "full_admin": {
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.4/Geotool_XY_Installer_1.1.4.exe",
+  "size": 322649303,
+  "sha256": "2c6cc4bd09b91a80a5b1dadc73991a099ee1f76a2c7252b8acd47a9469add456"
+ }
+}
