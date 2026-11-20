@@ -1,24 +1,25 @@
 {
  "app": "Geotool_XY",
- "version": "1.1.5",
- "ngay": "2026-11-18",
- "ghi_chu": "Bản 1.1.5: bộ cài cho người dùng (User) nén tối đa, nhỏ hơn khoảng 100 MB, tải cập nhật nhanh hơn.",
+ "version": "1.1.6",
+ "ngay": "2026-11-20",
+ "ghi_chu": "Bản 1.1.6: đọc đúng số kiểu Việt Nam (dấu phẩy thập phân, chấm hàng nghìn) và tên điểm có khoảng trắng khi dán từ Excel; liệt kê dòng bị bỏ qua và nêu rõ điểm có cảnh báo; chọn BL mà số vượt miền thì báo lỗi; mở file / gộp file / Thị giác / Xóa tất cả không còn lẫn dữ liệu nguồn cũ khi lưu; kiểm thư mục và file đang mở trước khi lưu; lỗi file hỏng báo bằng tiếng Việt; ghi nhật ký loi.log; hộp Cập nhật gọn một dòng.",
  "patch": {
-  "url": "1.1.5/Geotool_XY_Patch_1.1.5.exe",
-  "size": 26986788,
-  "sha256": "e504f86c4bdf0a82120b238c6600172c7a3740c988c6e4f94623ba1c833855f9",
+  "url": "1.1.6/Geotool_XY_Patch_1.1.6.exe",
+  "size": 27013553,
+  "sha256": "50da5f18a02f5dd670dff3485f53c6319b802b068668e145126264b38877e61d",
   "tu_ban": [
-   "1.1.4"
+   "1.1.4",
+   "1.1.5"
   ]
  },
  "full_user": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.5/Geotool_XY_Installer_User_1.1.5.exe",
-  "size": 322645060,
-  "sha256": "3956fb32a160cc9b44cab08b72f8999d49c6dbfe6ae2321464ffbca7775ce4cc"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.6/Geotool_XY_Installer_User_1.1.6.exe",
+  "size": 322694525,
+  "sha256": "b99ac31de1163210f64700f37183181f73fcdc7567cf77eb19ac9be6c5823a96"
  },
  "full_admin": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.5/Geotool_XY_Installer_1.1.5.exe",
-  "size": 322645035,
-  "sha256": "e8c0468306084ef13d7ce07b3259523b643f1db6277a0005d8bd8152572489af"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.6/Geotool_XY_Installer_1.1.6.exe",
+  "size": 322694499,
+  "sha256": "9efb5a6bff580caabfcc57a74bd822e6540a98f4619cb527e101e6ae9d188511"
  }
 }
