@@ -1,25 +1,26 @@
 {
  "app": "Geotool_XY",
- "version": "1.1.6",
- "ngay": "2026-11-20",
- "ghi_chu": "Bản 1.1.6: đọc đúng số kiểu Việt Nam (dấu phẩy thập phân, chấm hàng nghìn) và tên điểm có khoảng trắng khi dán từ Excel; liệt kê dòng bị bỏ qua và nêu rõ điểm có cảnh báo; chọn BL mà số vượt miền thì báo lỗi; mở file / gộp file / Thị giác / Xóa tất cả không còn lẫn dữ liệu nguồn cũ khi lưu; kiểm thư mục và file đang mở trước khi lưu; lỗi file hỏng báo bằng tiếng Việt; ghi nhật ký loi.log; hộp Cập nhật gọn một dòng.",
+ "version": "1.1.7",
+ "ngay": "2026-11-23",
+ "ghi_chu": "Bản 1.1.7: hộp Cập nhật không còn ẩn nút Kiểm tra cập nhật / Cập nhật ngay khi ghi chú phiên bản dài (cửa sổ tự cao theo nội dung); Thị giác đọc đúng toạ độ khi dấu phút bị nhận nhầm thành số 1.",
  "patch": {
-  "url": "1.1.6/Geotool_XY_Patch_1.1.6.exe",
-  "size": 27013553,
-  "sha256": "50da5f18a02f5dd670dff3485f53c6319b802b068668e145126264b38877e61d",
+  "url": "1.1.7/Geotool_XY_Patch_1.1.7.exe",
+  "size": 27016337,
+  "sha256": "0588e1cda857964b4b15085a8546b697835db385153a1a94e9bbc4a07044a944",
   "tu_ban": [
    "1.1.4",
-   "1.1.5"
+   "1.1.5",
+   "1.1.6"
   ]
  },
  "full_user": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.6/Geotool_XY_Installer_User_1.1.6.exe",
-  "size": 322694525,
-  "sha256": "b99ac31de1163210f64700f37183181f73fcdc7567cf77eb19ac9be6c5823a96"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.7/Geotool_XY_Installer_User_1.1.7.exe",
+  "size": 322662263,
+  "sha256": "399738a696e24650104ae09a35dad4f6c4c870866a21257c7efaa5794309001c"
  },
  "full_admin": {
-  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.6/Geotool_XY_Installer_1.1.6.exe",
-  "size": 322694499,
-  "sha256": "9efb5a6bff580caabfcc57a74bd822e6540a98f4619cb527e101e6ae9d188511"
+  "url": "https://github.com/nguyenlong1988/update_GeotoolXY/releases/download/v1.1.7/Geotool_XY_Installer_1.1.7.exe",
+  "size": 322662237,
+  "sha256": "152bc3957d8cb4f58a929605d6e67bb3be3bb706c4ca9f146be55b13ed275924"
  }
 }
